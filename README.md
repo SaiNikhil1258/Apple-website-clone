@@ -1,2 +1,2 @@
-# Apple-website-clone
-My take on the apple website clone
+# Apple-Home-Page-Clone
+Clone of Apple's Home Page with HTML CSS JS 
